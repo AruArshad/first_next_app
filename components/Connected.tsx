@@ -8,7 +8,7 @@ import {
     VStack,
     Image,
 } from "@chakra-ui/react"
-import { ArrowForwardIcon } from "@chakra-ui/icons"
+// import { ArrowForwardIcon } from "@chakra-ui/icons"
 
 const Connected: FC = () => {
     return (
@@ -44,7 +44,7 @@ const Connected: FC = () => {
             <Button bgColor="accent" color="white" maxW="380px">
                 <HStack>
                     <Text>mint stresso</Text>
-                    <ArrowForwardIcon />
+                    {/* <ArrowForwardIcon /> */}
                 </HStack>
             </Button>
         </VStack>
