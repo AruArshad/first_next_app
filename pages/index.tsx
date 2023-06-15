@@ -37,7 +37,7 @@ const Home: NextPage = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                built by @AruStresso
+                built by @AruStresso*
               </a>
             </Box>
           </Center>
